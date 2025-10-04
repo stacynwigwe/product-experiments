@@ -23,4 +23,4 @@ A creative side project to test how poetry and faith-based content could be pack
 
 ![Proof of Growth & Reach Screenshot 2](images/IMG_1198.jpeg)
 
-![Analytics Screenshot 2]
+![Analytics Screenshot 2](images/IMG_1193.png) 
