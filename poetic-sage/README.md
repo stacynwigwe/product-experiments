@@ -16,4 +16,4 @@ A creative side project to test how poetry and faith-based content could be pack
 
 ## Visuals
 ![Analytics Screenshots](images/IMG_1195.jpeg)
-(images/
+(images/IMG_1196.png) 
