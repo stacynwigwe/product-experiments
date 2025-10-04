@@ -15,4 +15,4 @@ A creative side project to test how poetry and faith-based content could be pack
 - Gained insight into audience behavior and traction analysis.  
 
 ## Visuals
-![Analytics Screenshot](images/analytics.png)
+![Analytics Screenshot](poetic-sage/images/IMG_1195.jpeg)
