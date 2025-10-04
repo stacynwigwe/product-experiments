@@ -6,7 +6,7 @@ A creative side project to test how poetry and faith-based content could be pack
 
 ## What I Did
 - Created, branded, and shared poetry content with a consistent aesthetic.  
-- Grew engagement to 1K+ impressions through organic reach.  
+- Grew engagement to 450K+ impressions through organic reach.  
 - Collected audience feedback to adapt tone and content.  
 
 ## What I Learned
