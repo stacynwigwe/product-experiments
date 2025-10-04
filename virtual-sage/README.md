@@ -15,4 +15,6 @@ A consulting venture that supported small businesses and thought leaders with sy
 - Value of documenting processes so others could replicate success.  
 
 ## Visuals
-![TED Proposal Screenshot](images/ted-proposal.png)
+![TED Proposal Screenshot 1](images/IMG_1199.jpeg)
+
+![TED Proposal Screenshot 2]
