@@ -17,4 +17,4 @@ A consulting venture that supported small businesses and thought leaders with sy
 ## Visuals
 ![TED Proposal Screenshot 1](images/IMG_1199.jpeg)
 
-![TED Proposal Screenshot 2]
+![TED Proposal Screenshot 2](images/IMG_1200.png)
