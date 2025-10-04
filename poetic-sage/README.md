@@ -18,3 +18,5 @@ A creative side project to test how poetry and faith-based content could be pack
 ![Original Screenshot 1](images/IMG_1195.jpeg)
 
 ![Analytics Screenshots 1](images/IMG_1196.png) 
+
+![Proof of Growth Screenshot 1](images/IMG_1197.jpeg) 
