@@ -58,7 +58,7 @@ I believe every great product, digital, physical, or educational, starts with em
 
 If you’d like to explore collaboration or see how these frameworks translate into organizational systems, you can reach me here:
 - 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
+- 💼 [LinkedIn](http://www.linkedin.com/in/stacynwigwe)  
 - ✉️ **stacynwigwe@gmail.com**
 
 ---
