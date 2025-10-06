@@ -14,7 +14,7 @@ This repository showcases my independent work exploring education, technology, a
 A roadmap and concept for helping **teachers pivot into tech careers**, turning transferable skills into actionable assets.  
 - Focus: EdTech, career transitions, user empathy  
 - Outcome: Three-phase framework (Reflect → Reframe → Reposition)  
-- Tools: Canva, Miro, Google Sheets, Markdown  
+- Tools: Canva, Google Sheets, Markdown  
 
 ---
 
