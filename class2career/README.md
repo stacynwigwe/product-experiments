@@ -5,6 +5,20 @@
 Built from my own experience transitioning from teacher → consultant → mentor → IT Business Analyst, this project guides users through a structured, reflective journey that connects their *teaching expertise* to *tech industry opportunities.*
 
 ---
+## [Class2Career](https://gamma.app/docs/Class2Career-za23xmbgnh5fee7)
+
+![Class2Career Framework](https://github.com/stacynwigwe/product-experiments/blob/main/assets/class2career_framework.png)
+
+**Summary:**  
+A 3-phase roadmap designed to help teachers pivot into tech by applying product-thinking and systems strategy to their career transitions.  
+
+**Framework Overview:**  
+1️⃣ **Reflect** — Identify strengths and pinpoint transferable skills from classroom experience.  
+2️⃣ **Reframe** — Translate teaching language into the technical and analytical language of the tech industry.  
+3️⃣ **Reposition** — Build a professional portfolio and confidently launch a new career path in tech.  
+
+🎯 *The future of education is evolving — and so can your career.*
+---
 
 ## 💡 Problem  
 Many teachers want to move into tech but don’t know how to begin.  
