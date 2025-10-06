@@ -5,7 +5,7 @@
 Built from my own experience transitioning from teacher → consultant → mentor → IT Business Analyst, this project guides users through a structured, reflective journey that connects their *teaching expertise* to *tech industry opportunities.*
 
 ---
-## [Class2Career](https://gamma.app/docs/Class2Career-za23xmbgnh5fee7)
+## [Class2Career](https://gamma.app/docs/Class2Career-za23xmbgnh5fee7) 
 
 ![Class2Career Framework](https://github.com/stacynwigwe/product-experiments/blob/main/assets/class2career_framework.png)
 
