@@ -91,3 +91,6 @@ By applying systems thinking to career transitions, educators learn that:
 **Created by:** Stacy Nwigwe  
 💻 *Educator turned Analyst, Systems Thinker, and Product Storyteller*  
 📍 Sunrise, FL | 🌐 [Portfolio](https://stacynwigwe.github.io/portfolio)  
+
+---
+Class2Career is a conceptual project designed to illustrate my approach to product thinking and career transition systems for educators.
