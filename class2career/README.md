@@ -7,7 +7,7 @@ Built from my own experience transitioning from teacher → consultant → mento
 ---
 ## [Class2Career](https://gamma.app/docs/Class2Career-za23xmbgnh5fee7) 
 
-![Class2Career Framework](https://github.com/stacynwigwe/product-experiments/blob/main/class2career/class2career_framework.png?raw=true)
+![Class2Career Framework](./images/class2career_framework.png)
 
 **Summary:**  
 A 3-phase roadmap designed to help teachers pivot into tech by applying product-thinking and systems strategy to their career transitions.  
