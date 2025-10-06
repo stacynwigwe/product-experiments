@@ -1,7 +1,7 @@
 # product-experiments
 # 🧠 Product Experiments by Stacy Nwigwe
 
-Welcome to my collection of **real-world product experiments** — where systems thinking meets storytelling.  
+Welcome to my collection of **real-world product experiments**, where systems thinking meets storytelling.  
 Each project here began as a simple question: *“How can structure, creativity, and data come together to make people’s lives easier?”*  
 
 This repository showcases my independent work exploring education, technology, and human behavior through the lens of **product strategy, design thinking, and operational clarity.**
@@ -11,7 +11,7 @@ This repository showcases my independent work exploring education, technology, a
 ## 🚀 Projects
 
 ### 🎓 [Class2Career](./class2career)
-A roadmap and concept for helping **teachers pivot into tech careers** — turning transferable skills into actionable assets.  
+A roadmap and concept for helping **teachers pivot into tech careers**, turning transferable skills into actionable assets.  
 - Focus: EdTech, career transitions, user empathy  
 - Outcome: Three-phase framework (Reflect → Reframe → Reposition)  
 - Tools: Canva, Miro, Google Sheets, Markdown  
@@ -35,7 +35,7 @@ A freelance consultancy turned case study in **automation and operational design
 ---
 
 ### 🍫 [Snack Boss](./snack-boss)
-A concept bridging **data analytics and vending entrepreneurship** — rethinking snack access through customer insights.  
+A concept bridging **data analytics and vending entrepreneurship**, rethinking snack access through customer insights.  
 - Focus: Product-market fit, user experience, and operations  
 - Outcome: Prototype stage, early business model validation  
 - Tools: Excel, Canva, Tableau  
@@ -50,7 +50,7 @@ Across all projects, I approach problem solving as both an **analyst** and a **b
 3. Design a structured solution  
 4. Measure, refine, and document  
 
-I believe every great product — digital, physical, or educational — starts with empathy and ends with clarity.
+I believe every great product, digital, physical, or educational, starts with empathy and ends with clarity.
 
 ---
 
