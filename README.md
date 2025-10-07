@@ -11,7 +11,8 @@ This repository showcases my independent work exploring education, technology, a
 ## 🚀 Projects
 ### 🧠 [CLASS SQL Framework](./class-sql-framework)
 A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts.  
-This framework bridges the gap between business questions and database logic—helping teams move from **question → data → insight** with clarity and purpose.
+
+This framework bridges the gap between business questions and database logic, helping teams move from **question → data → insight** with clarity and purpose.
 
 - **Focus:** Data storytelling, SQL logic, explainability  
 - **Outcome:** Reproducible framework for query planning and instructional use  
