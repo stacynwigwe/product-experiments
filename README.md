@@ -9,6 +9,23 @@ This repository showcases my independent work exploring education, technology, a
 ---
 
 ## 🚀 Projects
+### 🧠 [CLASS SQL Framework](./class-sql-framework)
+A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts.  
+This framework bridges the gap between business questions and database logic—helping teams move from **question → data → insight** with clarity and purpose.
+
+- **Focus:** Data storytelling, SQL logic, explainability  
+- **Outcome:** Reproducible framework for query planning and instructional use  
+- **Method:**  
+  - **C — Clarify** the question: Define the who, what, when, and why before coding  
+  - **L — Locate** the data: Identify which tables and fields contain the needed information  
+  - **A — Apply** filters: Narrow the scope to the relevant records (e.g., subject, date range, thresholds)  
+  - **S — Select** the calculation: Choose the right metric (count, avg, %, rank, trend)  
+  - **S — Show** the results: Present insights clearly with appropriate columns, order, and format  
+- **Tools:** SQL, Power BI, Canva (for visual documentation)  
+
+💡 *From question to answer—fast, accurate, explainable.*
+
+---
 
 ### 🎓 [Class2Career](./class2career)
 A roadmap and concept for helping **teachers pivot into tech careers**, turning transferable skills into actionable assets.  
