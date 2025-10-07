@@ -35,6 +35,9 @@ How should it be presented? (columns, labels, sort, top/bottom N, grouping)
 - **Calc**: formula, edge cases, rounding?
 - **Show**: column names, sort order, totals, constraints?
 
+ ![CLASS SQL Framework](./images/class_sql_framework.PNG)
+> From question to answer — fast, accurate, explainable.
+
 ---
 
 ## 📘 Example (K-12 assessment use case)
