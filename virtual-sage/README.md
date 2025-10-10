@@ -1,3 +1,5 @@
+[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+---
 # TheVirtualSage
 Freelance strategy & business support service.
 
