@@ -14,7 +14,7 @@ This repository showcases my independent work exploring education, technology, a
 
 # Products
 ---
-## ✍️ Writing Samples
+## Writing Samples
 
 This writing sample illustrates my approach to strategic communication: blending clarity, systems thinking, and empathy to drive adoption and change in education.
 
@@ -24,7 +24,7 @@ A concise, real-world reflection on how thoughtful implementation planning trans
 
 ---
 
-### 🧠 [CLASS SQL Framework](./class-sql-framework)
+###  [CLASS SQL Framework](./class-sql-framework)
 A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts.  
 
 This framework bridges the gap between business questions and database logic, helping teams move from **question → data → insight** with clarity and purpose.
@@ -43,7 +43,7 @@ This framework bridges the gap between business questions and database logic, he
 
 ---
 
-### 🎓 [Class2Career](./class2career)
+###  [Class2Career](./class2career)
 A roadmap and concept for helping **teachers pivot into tech careers**, turning transferable skills into actionable assets.  
 - Focus: EdTech, career transitions, user empathy  
 - Outcome: Three-phase framework (Reflect → Reframe → Reposition)  
@@ -51,7 +51,7 @@ A roadmap and concept for helping **teachers pivot into tech careers**, turning 
 
 ---
 
-### ✍🏽 [The Poetic Sage](./poetic-sage)
+### [The Poetic Sage](./poetic-sage)
 A creative experiment exploring **faith, healing, and storytelling** through social media.  
 - Focus: Emotional storytelling and content design  
 - Outcome: 1M+ organic reach, proof of concept for digital engagement  
@@ -59,7 +59,7 @@ A creative experiment exploring **faith, healing, and storytelling** through soc
 
 ---
 
-### 💼 [The Virtual Sage](./virtual-sage)
+###  [The Virtual Sage](./virtual-sage)
 A freelance consultancy turned case study in **automation and operational design.**  
 - Focus: Client efficiency, workflow automation, and digital strategy  
 - Outcome: 10+ hrs saved per week for clients, one TED Talk placement secured through proposal work  
@@ -67,7 +67,7 @@ A freelance consultancy turned case study in **automation and operational design
 
 ---
 
-### 🍫 [Snack Boss](./snack-boss)
+###  [Snack Boss](./snack-boss)
 A concept bridging **data analytics and vending entrepreneurship**, rethinking snack access through customer insights.  
 - Focus: Product-market fit, user experience, and operations  
 - Outcome: Prototype stage, early business model validation  
@@ -75,7 +75,7 @@ A concept bridging **data analytics and vending entrepreneurship**, rethinking s
 
 ---
 
-## 💡 My Approach
+##  My Approach
 
 Across all projects, I approach problem solving as both an **analyst** and a **builder**:
 1. Identify the user pain point  
@@ -90,8 +90,8 @@ I believe every great product, digital, physical, or educational, starts with em
 ## 📫 Connect
 
 If you’d like to explore collaboration or see how these frameworks translate into organizational systems, you can reach me here:
-- 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
+- 🌐 [stacynwigwe.github.io/portfolio](https://stacynwigwe.github.io/portfolio)
+- [LinkedIn](https://www.linkedin.com/in/stacynwigwe)  
 - ✉️ [stacynwigwe@icloud.com](mailto:stacynwigwe@icloud.com)
 
 ---
