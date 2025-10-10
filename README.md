@@ -1,3 +1,5 @@
+[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+---
 # product-experiments
 # 🧠 Product Experiments by Stacy Nwigwe
 
