@@ -106,7 +106,7 @@ By applying systems thinking to career transitions, educators learn that:
 
 ## Creator  
 **Created by:** Stacy Nwigwe  
-💻 *Educator turned Analyst, Systems Thinker, and Product Storyteller*  
+*Educator turned Analyst, Systems Thinker, and Product Storyteller*  
 📍 Sunrise, FL | 🌐 [Portfolio](https://stacynwigwe.github.io/portfolio)  
 
 ---
