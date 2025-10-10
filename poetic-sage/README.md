@@ -1,4 +1,5 @@
-[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+[🏠 Home](https://stacynwigwe.github.io/product-experiments/) | 
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
 # The Poetic Sage
 Faith + poetry Instagram platform.
