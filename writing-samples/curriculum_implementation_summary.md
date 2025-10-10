@@ -1,3 +1,5 @@
+[Home](https://stacynwigwe.github.io/product-experiments/) | 
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 # Building Capacity for Curriculum Change: A Strategic Implementation Approach
 
 Implementing new curriculum tools is never just about technology, it’s about people. When our school adopted a new math lab software, the goal wasn’t to replace teachers but to empower them. Success depended on how well we prepared educators, students, and families to embrace it as a meaningful part of learning.
