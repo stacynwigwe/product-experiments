@@ -12,7 +12,7 @@ Make analytics work fast, accurate, and explainable by guiding stakeholders (and
 
 ---
 
-## 🧱 The Framework (CLASS)
+## The Framework (CLASS)
 
 **C — Clarify the Question**  
 What exactly are they asking? “Per student? Per grade? Per school? Which timeframe? Which subject?”
@@ -31,7 +31,7 @@ How should it be presented? (columns, labels, sort, top/bottom N, grouping)
 
 ---
 
-## ✅ Quick Checklist (copy/paste before you query)
+## Quick Checklist (copy/paste before you query)
 - **Clarify**: metric, population, timebox, comparison?
 - **Locate**: tables, keys, join types, grain?
 - **Filter**: includes/excludes, null rules, business rules?
@@ -43,7 +43,7 @@ How should it be presented? (columns, labels, sort, top/bottom N, grouping)
 
 ---
 
-## 📘 Example (K-12 assessment use case)
+## Example (K-12 assessment use case)
 **Ask:** “Which elementary schools improved average Math proficiency year-over-year?”  
 - **C:** Compare SY2023 vs SY2024, elementary only, proficiency = score ≥ 70.  
 - **L:** `students`, `assessments`, `schools`, `school_years`.  
