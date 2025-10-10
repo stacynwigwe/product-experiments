@@ -1,9 +1,9 @@
 [🏠 Home](https://stacynwigwe.github.io/product-experiments/) | 
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
-# 🎓 Class2Career: The Tech Pivot Roadmap for Teachers  
+# Class2Career: The Tech Pivot Roadmap for Teachers  
 
-## 🧩 Overview  
+## Overview  
 **Class2Career** is a digital transition toolkit that helps educators pivot from the classroom into technology careers with confidence and clarity.  
 Built from my own experience transitioning from teacher → consultant → mentor → IT Business Analyst, this project guides users through a structured, reflective journey that connects their *teaching expertise* to *tech industry opportunities.*
 
@@ -23,7 +23,7 @@ A 3-phase roadmap designed to help teachers pivot into tech by applying product-
 🎯 *The future of education is evolving — and so can your career.*
 ---
 
-## 💡 Problem  
+## Problem  
 Many teachers want to move into tech but don’t know how to begin.  
 They face three common roadblocks:  
 - Uncertainty translating classroom experience into tech-aligned skills  
@@ -34,12 +34,12 @@ They face three common roadblocks:
 
 ---
 
-## 🧭 Mission  
+## Mission  
 Empower teachers to transform their transferable skills into a sustainable tech career — bridging the gap between education and technology through systems thinking, reflection, and intentional career design.  
 
 ---
 
-## ⚙️ Solution  
+## Solution  
 A 3-phase roadmap that mirrors how teachers already think and plan:  
 
 ### Phase 1: **Reflect**  
@@ -61,7 +61,7 @@ Build a tech-ready professional identity.
 
 ---
 
-## 🔍 Users  
+## Users  
 **Primary Users:**  
 Educators, instructional leaders, or curriculum specialists exploring career transitions into roles such as:  
 - Business Analyst  
@@ -72,7 +72,7 @@ Educators, instructional leaders, or curriculum specialists exploring career tra
 
 ---
 
-## 🧱 MVP Deliverables  
+## MVP Deliverables  
 | Component | Description | Output |
 |------------|--------------|--------|
 | Skill Translator Map | Interactive table linking classroom skills to tech roles | PDF/Google Sheet |
@@ -82,14 +82,14 @@ Educators, instructional leaders, or curriculum specialists exploring career tra
 
 ---
 
-## 📊 Success Metrics  
+## Success Metrics  
 - 50% reduction in time-to-first-tech interview  
 - +30% increase in educator confidence (via self-assessment feedback)  
 - Measure engagement via downloads, shares, and educator testimonials  
 
 ---
 
-## 🌱 Impact  
+##  Impact  
 *Class2Career* doesn’t just help teachers leave the classroom — it helps them see their skills differently.  
 By applying systems thinking to career transitions, educators learn that:  
 > “You’re not leaving education — you’re expanding it into new systems.”  
@@ -104,7 +104,7 @@ By applying systems thinking to career transitions, educators learn that:
 
 ---
 
-## ✨ Creator  
+## Creator  
 **Created by:** Stacy Nwigwe  
 💻 *Educator turned Analyst, Systems Thinker, and Product Storyteller*  
 📍 Sunrise, FL | 🌐 [Portfolio](https://stacynwigwe.github.io/portfolio)  
