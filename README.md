@@ -1,6 +1,5 @@
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
-# product-experiments
 # 🧠 Product Experiments by Stacy Nwigwe
 
 Welcome to my collection of **real-world product experiments**, where systems thinking meets storytelling.  
