@@ -1,3 +1,5 @@
+[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+---
 # 🎓 Class2Career: The Tech Pivot Roadmap for Teachers  
 
 ## 🧩 Overview  
