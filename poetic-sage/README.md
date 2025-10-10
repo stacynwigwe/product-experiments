@@ -1,3 +1,5 @@
+[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+---
 # The Poetic Sage
 Faith + poetry Instagram platform.
 
