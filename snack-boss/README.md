@@ -16,5 +16,6 @@ A concept business blending vending, curated snack boxes, and niche placement (s
 - Insights into customer buying patterns.  
 - Importance of visibility and placement in retail.  
 - How to evaluate scalability before investing.
+  
 ## Visuals
 *(Coming soon)*
