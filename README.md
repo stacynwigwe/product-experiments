@@ -1,4 +1,4 @@
-[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
 # product-experiments
 # 🧠 Product Experiments by Stacy Nwigwe
