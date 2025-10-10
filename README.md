@@ -10,8 +10,9 @@ This repository showcases my independent work exploring education, technology, a
 
 ## 🚀 Projects
 ## ✍️ Writing Samples
-An example of my professional and creative writing, demonstrating persuasive communication and proposal development:
-- [Building Capacity for Curriculum Change](curriculum_implementation_summary.md)
+Curriculum Implementation Strategy**  
+A concise, real-world reflection on how thoughtful implementation planning transforms educational technology from a compliance task into a catalyst for growth.  
+👉 [Read the full piece](curriculum_implementation_summary.md)
 ### 🧠 [CLASS SQL Framework](./class-sql-framework)
 A 5-step system I developed to make SQL querying and data interpretation more explainable for educators and analysts.  
 
