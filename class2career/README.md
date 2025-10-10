@@ -1,4 +1,5 @@
-[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+[🏠 Home](https://stacynwigwe.github.io/product-experiments/) | 
+[🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
 # 🎓 Class2Career: The Tech Pivot Roadmap for Teachers  
 
