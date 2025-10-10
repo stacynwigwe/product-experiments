@@ -37,7 +37,7 @@ They face three common roadblocks:
 ---
 
 ## Mission  
-Empower teachers to transform their transferable skills into a sustainable tech career — bridging the gap between education and technology through systems thinking, reflection, and intentional career design.  
+Empower teachers to transform their transferable skills into a sustainable tech career: bridging the gap between education and technology through systems thinking, reflection, and intentional career design.  
 
 ---
 
@@ -92,9 +92,9 @@ Educators, instructional leaders, or curriculum specialists exploring career tra
 ---
 
 ##  Impact  
-*Class2Career* doesn’t just help teachers leave the classroom — it helps them see their skills differently.  
-By applying systems thinking to career transitions, educators learn that:  
-> “You’re not leaving education — you’re expanding it into new systems.”  
+*Class2Career* doesn’t just help teachers leave the classroom, it helps them see their skills differently.  
+By applying systems thinking to career transitions, educators learn:  
+> “You’re not leaving education, you’re expanding it into new systems.”  
 
 ---
 
