@@ -1,1 +1,5 @@
-
+title: Product Experiments
+description: Case studies, frameworks, and writing samples.
+theme: jekyll-theme-minimal   # or modernist if you prefer
+baseurl: "/product-experiments"
+url: "https://stacynwigwe.github.io"
