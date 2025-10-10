@@ -12,7 +12,7 @@ This repository showcases my independent work exploring education, technology, a
 ## ✍️ Writing Samples
 Curriculum Implementation Strategy**  
 A concise, real-world reflection on how thoughtful implementation planning transforms educational technology from a compliance task into a catalyst for growth.  
-👉 [Read the full piece](curriculum_implementation_summary.md)
+👉 [Read the full piece](writing-samples/curriculum_implementation_summary.md)
 
 ---
 
