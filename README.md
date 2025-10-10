@@ -5,7 +5,7 @@
 Welcome to my collection of **real-world product experiments**, where systems thinking meets storytelling.  
 Each project here began as a simple question: *“How can structure, creativity, and data come together to make people’s lives easier?”*  
 
-This repository showcases my independent work exploring education, technology, and human behavior through the lens of **product strategy, design thinking, and operational clarity.**
+This repository showcases my independent work exploring education, technology, and human behavior through the lens of **product strategy, design thinking,** and **operational clarity.**
 
 ---
 
