@@ -1,3 +1,5 @@
+[🏠 Home](../index.md) | [🔙 Back to Projects](../)
+---
 # Snack Boss
 Experimental vending/snack concept.
 
