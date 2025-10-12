@@ -62,7 +62,7 @@ A creative experiment exploring **faith, healing, and storytelling** through soc
 A freelance consultancy turned case study in **automation and operational design.**  
 - Focus: Client efficiency, workflow automation, and digital strategy  
 - Outcome: 10+ hrs saved per week for clients, one TED Talk placement secured through proposal work  
-- Tools: Zapier, Airtable, Trello, Smartsheet  
+- Tools: Zapier, Airtable, ClickUp, Smartsheet  
 
 ---
 
