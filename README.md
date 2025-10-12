@@ -2,9 +2,6 @@
 ---
 🔙 **Return to [Main Data Projects Hub](https://stacynwigwe.github.io/portfolio/projects/)**  
 
-
-Explore dashboards, BI case studies, and data-driven systems designed to turn insight into action.
-
 ---
 Welcome to my collection of **real-world product experiments**, where systems thinking meets storytelling.
 
