@@ -22,7 +22,7 @@ A 3-phase roadmap designed to help teachers pivot into tech by applying product-
 
 3️ **Reposition** — Build a professional portfolio and confidently launch a new career path in tech.  
 
-🎯 *The future of education is evolving, and so can your career.*
+*The future of education is evolving, and so can your career.*
 ---
 
 ## Problem  
@@ -98,7 +98,7 @@ By applying systems thinking to career transitions, educators learn:
 
 ---
 
-## 🧰 Tools Used  
+## Tools Used  
 - Canva (design + visual storytelling)  
 - Google Sheets (career dashboard templates)  
 - Markdown + GitHub (documentation)  
