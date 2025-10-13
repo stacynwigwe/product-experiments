@@ -38,7 +38,7 @@ This framework bridges the gap between business questions and database logic, he
   - **S — Show** the results: Present insights clearly with appropriate columns, order, and format  
 - **Tools:** SQL, Power BI, Canva (for visual documentation)  
 
-💡 *From question to answer—fast, accurate, explainable.*
+ *From question to answer—fast, accurate, explainable.*
 
 ---
 
