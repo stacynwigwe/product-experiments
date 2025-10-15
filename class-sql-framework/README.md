@@ -7,7 +7,7 @@ A 5-step, plain-English method I use to turn messy questions into clean, defensi
 
 ---
 
-## 🎯 Purpose
+## Purpose
 Make analytics work fast, accurate, and explainable by guiding stakeholders (and myself) through a consistent sequence from question → data → filters → math → output.
 
 ---
