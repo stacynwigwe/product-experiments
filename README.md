@@ -13,13 +13,12 @@ This repository showcases my independent work exploring education, technology, a
 
 # Products
 ---
-## Writing Samples
+### [Writing Sample](writing-samples/curriculum_implementation_summary.md) 
 
 This writing sample illustrates my approach to strategic communication: blending clarity, systems thinking, and empathy to drive adoption and change in education.
 
 **Curriculum Implementation Strategy**  
 A concise, real-world reflection on how thoughtful implementation planning transforms educational technology from a compliance task into a catalyst for growth.  
-👉 [Read the full piece](writing-samples/curriculum_implementation_summary.md)
 
 ---
 
