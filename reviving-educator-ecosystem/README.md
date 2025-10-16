@@ -26,7 +26,7 @@ Because when people feel ownership in the story, they carry it forward.
 | Pillar | Purpose | Example Applications |
 |--------|----------|----------------------|
 | **Creator Spotlight** | Humanize the brand with educator stories. | “Inside the Creator Studio” blog or short-form video features. |
-| **Data-Driven Insights** | Turn platform data into classroom insights. | Quarterly “State of the Educator” reports or trend infographics. |
+| **Data-Driven Insights** | Turn platform data into classroom insights and optimize content visibility for both human and AI-driven discovery.| Quarterly “State of the Educator” reports, trend infographics, or AEO-informed content briefs that help the brand surface in evolving search and answer ecosystems.|
 | **Thought Leadership** | Build credibility through research-based storytelling. | Articles and white papers exploring hybrid learning or equity. |
 | **Mentor Mini-Program** | Encourage peer mentorship among creators. | Guided Q&A sessions or collaborative resource series. |
 
