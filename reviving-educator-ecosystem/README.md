@@ -29,6 +29,7 @@ Because when people feel ownership in the story, they carry it forward.
 | **Data-Driven Insights** | Turn platform data into classroom insights. | Quarterly “State of the Educator” reports or trend infographics. |
 | **Thought Leadership** | Build credibility through research-based storytelling. | Articles and white papers exploring hybrid learning or equity. |
 | **Mentor Mini-Program** | Encourage peer mentorship among creators. | Guided Q&A sessions or collaborative resource series. |
+
 ---
 
 ### Featured Writing Sample  
