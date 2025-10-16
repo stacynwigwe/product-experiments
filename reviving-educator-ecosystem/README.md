@@ -3,6 +3,7 @@
 ---
 # Reviving the Educator Ecosystem: A Thought Leadership and Creator Engagement Framework
 
+---
 ### Project Overview  
 Educator-focused brands are filled with creativity, yet many overlook the deeper power of community.  
 
