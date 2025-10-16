@@ -13,6 +13,17 @@ This repository showcases my independent work exploring education, technology, a
 
 # Products
 ---
+### [Reviving the Educator Ecosystem](./reviving-educator-ecosystem)
+
+A conceptual strategy that bridges data and storytelling to strengthen educator communities. 
+
+It reimagines how education brands can honor teachers as thought leaders through authentic storytelling, purposeful data, and peer mentorship. This approach aligns with research and experience showing that systems built with empathy grow stronger and endure through structure.
+
+- Focus: Thought leadership, educator storytelling, data informed strategy, community systems
+- Outcome: Framework for educator engagement and brand trust through creator spotlights, research based content, and mentorship collaboration
+- Tools: Markdown, Canva, Google Docs, data analysis frameworks
+
+---
 ### [Writing Sample](writing-samples/curriculum_implementation_summary.md) 
 
 This writing sample illustrates my approach to strategic communication: blending clarity, systems thinking, and empathy to drive adoption and change in education.
@@ -36,8 +47,6 @@ This framework bridges the gap between business questions and database logic, he
   - **S — Select** the calculation: Choose the right metric (count, avg, %, rank, trend)  
   - **S — Show** the results: Present insights clearly with appropriate columns, order, and format  
 - **Tools:** SQL, Power BI, Canva (for visual documentation)  
-
- *From question to answer—fast, accurate, explainable.*
 
 ---
 
@@ -63,7 +72,6 @@ A freelance consultancy turned case study in **automation and operational design
 - Outcome: 10+ hrs saved per week for clients, one TED Talk placement secured through proposal work  
 - Tools: Zapier, ClickUp, Smartsheet, SEMrush, MailChimp, Google Analytics, Google Drive, Google Sheets, Wordpress, GoDaddy, Buffer 
   
-
 ---
 
 ###  [Snack Boss](./snack-boss)
