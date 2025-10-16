@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Reviving the Educator Ecosystem"
 subtitle: "A Thought Leadership and Creator Engagement Framework"
 ---
