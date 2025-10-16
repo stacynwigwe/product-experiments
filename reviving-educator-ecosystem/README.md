@@ -6,7 +6,8 @@ subtitle: "A Thought Leadership and Creator Engagement Framework"
 
 ### Project Overview  
 Educator-focused brands are filled with creativity, yet many overlook the deeper power of community.  
-This conceptual campaign reimagines how an EdTech marketplace could bridge **data, storytelling, and people-centered design** to build trust and visibility.
+
+This conceptual campaign reimagines how an EdTech marketplace could bridge **data, storytelling,** and **people-centered design** to build trust and visibility.
 
 The goal wasn’t to “increase engagement." It was to **help educators see themselves as innovators**.  
 Because when people feel ownership in the story, they carry it forward.
@@ -54,8 +55,8 @@ From differentiated learning to inclusive design, their curiosity signals a coll
 > A monthly Creator Spotlight could celebrate the stories behind innovation: the lessons learned, the small wins, and the shared growth.  
 
 **Post 3 – Reflection**  
-> *Beyond posts — toward purpose.*  
-> Research and storytelling are two sides of the same system: one measures, the other moves.  
+> *Beyond posts, toward purpose.*  
+> Research and storytelling are two sides of the same system. One measures, the other moves.  
 > Together, they create change that lasts.  
 
 ---
@@ -69,5 +70,7 @@ From differentiated learning to inclusive design, their curiosity signals a coll
 
 ### Reflection  
 This project mirrors my belief that systems succeed when people feel seen.  
+
 Just as in curriculum design, sustainable growth in marketing begins with empathy, and flourishes through structure.  
+
 It’s a reminder that analytics tell us what’s working, but *stories remind us why it matters*.
