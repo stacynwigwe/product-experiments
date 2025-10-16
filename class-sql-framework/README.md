@@ -53,6 +53,7 @@ How should it be presented? (columns, labels, sort, top/bottom N, grouping)
 - **S:** Show school_name, 2023_rate, 2024_rate, delta; sort by delta DESC; top 10.
 
 **SQL sketch:**
+
 ```sql
 WITH base AS (
   SELECT
