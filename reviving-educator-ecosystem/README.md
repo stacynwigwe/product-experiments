@@ -1,11 +1,8 @@
----
-layout: post
-title: "Reviving the Educator Ecosystem"
-subtitle: "A Thought Leadership and Creator Engagement Framework"
----
 [Home](https://stacynwigwe.github.io/product-experiments/) | 
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
+# Reviving the Educator Ecosystem: A Thought Leadership and Creator Engagement Framework
+
 ### Project Overview  
 Educator-focused brands are filled with creativity, yet many overlook the deeper power of community.  
 
