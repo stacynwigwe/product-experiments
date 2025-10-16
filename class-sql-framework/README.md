@@ -3,6 +3,7 @@
 ---
 # CLASS SQL Framework
 
+## Overview
 A 5-step, plain-English method I use to turn messy questions into clean, defensible SQL—and clear, decision-ready outputs.
 
 ---
