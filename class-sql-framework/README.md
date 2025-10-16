@@ -52,6 +52,7 @@ How should it be presented? (columns, labels, sort, top/bottom N, grouping)
 - **S:** AVG(score≥70) as proficiency_rate; calc change = 2024 − 2023.  
 - **S:** Show school_name, 2023_rate, 2024_rate, delta; sort by delta DESC; top 10.
 
+<pre>
 **SQL sketch:**
 
 ```sql
@@ -85,3 +86,6 @@ FROM pivot p
 JOIN schools sc ON sc.school_id = p.school_id
 ORDER BY delta DESC
 LIMIT 10;
+```
+ 
+<pre>
