@@ -13,7 +13,7 @@ This repository showcases my independent work exploring education, technology, a
 
 # Products
 
-### [Reviving the Educator Ecosystem](./reviving-educator-ecosystem)
+### [Reviving the Educator Ecosystem](./product-experiments/reviving-educator-ecosystem)
 
 A conceptual strategy that bridges data and storytelling to strengthen educator communities. 
 
