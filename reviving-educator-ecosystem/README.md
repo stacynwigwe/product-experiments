@@ -3,7 +3,7 @@
 ---
 # Reviving the Educator Ecosystem: A Thought Leadership and Creator Engagement Framework
 
-### Overview  
+## Overview  
 Educator-focused brands are filled with creativity, yet many overlook the deeper power of community.  
 
 This conceptual campaign reimagines how an EdTech marketplace could bridge **data, storytelling,** and **people-centered design** to build trust and visibility.
