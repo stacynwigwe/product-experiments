@@ -75,6 +75,7 @@ Educators, instructional leaders, or curriculum specialists exploring career tra
 ---
 
 ## MVP Deliverables  
+
 | Component | Description | Output |
 |------------|--------------|--------|
 | Skill Translator Map | Interactive table linking classroom skills to tech roles | PDF/Google Sheet |
