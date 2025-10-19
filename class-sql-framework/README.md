@@ -4,12 +4,12 @@
 # CLASS SQL Framework
 
 ## Overview
-A 5-step, plain-English method I use to turn messy questions into clean, defensible SQL—and clear, decision-ready outputs.
+A 5-step, plain-English method I use to turn messy questions into clean, defensible SQL and clear, decision-ready outputs.
 
 ---
 
 ## Purpose
-Make analytics work fast, accurate, and explainable by guiding stakeholders (and myself) through a consistent sequence from question → data → filters → math → output.
+Make analytics work fast, accurate, and explainable by guiding stakeholders (and myself) through a consistent sequence from **_question → data → filters → math → output._**
 
 ---
 
