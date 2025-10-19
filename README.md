@@ -19,9 +19,9 @@ A conceptual strategy that bridges data and storytelling to strengthen educator 
 
 It reimagines how education brands can honor teachers as thought leaders through authentic storytelling, purposeful data, and peer mentorship. This approach aligns with research and experience showing that systems built with empathy grow stronger and endure through structure.
 
-- Focus: Thought leadership, educator storytelling, data informed strategy, community systems
-- Outcome: Framework for educator engagement and brand trust through creator spotlights, research based content, and mentorship collaboration
-- Tools: Markdown, Canva, Google Docs, data analysis frameworks
+- **Focus:** Thought leadership, educator storytelling, data informed strategy, community systems
+- **Outcome:** Framework for educator engagement and brand trust through creator spotlights, research based content, and mentorship collaboration
+- **Tools:** Markdown, Canva, Google Docs, data analysis frameworks
 
 ---
 ### [Writing Sample →](writing-samples/curriculum_implementation_summary.md) 
@@ -52,33 +52,33 @@ This framework bridges the gap between business questions and database logic, he
 
 ###  [Class2Career →](./class2career)
 A roadmap and concept for helping **teachers pivot into tech careers**, turning transferable skills into actionable assets.  
-- Focus: EdTech, career transitions, user empathy  
-- Outcome: Three-phase framework (Reflect → Reframe → Reposition)  
-- Tools: Canva, Google Sheets, Markdown  
+- **Focus:** EdTech, career transitions, user empathy  
+- **Outcome:** Three-phase framework (Reflect → Reframe → Reposition)  
+- **Tools:** Canva, Google Sheets, Markdown  
 
 ---
 
 ### [The Poetic Sage →](./poetic-sage)
 A creative experiment exploring **faith, healing, and storytelling** through social media.  
-- Focus: Emotional storytelling and content design  
-- Outcome: 1M+ organic reach, proof of concept for digital engagement  
-- Tools: Instagram Analytics, Canva, Notion  
+- **Focus:** Emotional storytelling and content design  
+- **Outcome:** 1M+ organic reach, proof of concept for digital engagement  
+- **Tools:** Instagram Analytics, Canva, Notion  
 
 ---
 
 ###  [The Virtual Sage →](./virtual-sage)
 A freelance consultancy turned case study in **automation and operational design.**  
-- Focus: Client efficiency, workflow automation, and digital strategy  
-- Outcome: 10+ hrs saved per week for clients, one TED Talk placement secured through proposal work  
-- Tools: Zapier, ClickUp, Smartsheet, SEMrush, MailChimp, Google Analytics, Google Drive, Google Sheets, Wordpress, GoDaddy, Buffer 
+- **Focus:** Client efficiency, workflow automation, and digital strategy  
+- **Outcome:** 10+ hrs saved per week for clients, one TED Talk placement secured through proposal work  
+- **Tools:** Zapier, ClickUp, Smartsheet, SEMrush, MailChimp, Google Analytics, Google Drive, Google Sheets, Wordpress, GoDaddy, Buffer 
   
 ---
 
 ###  [Snack Boss →](./snack-boss)
 A concept bridging **data analytics and vending entrepreneurship**, rethinking snack access through customer insights.  
-- Focus: Product-market fit, user experience, and operations  
-- Outcome: Prototype stage, early business model validation  
-- Tools: Excel, Canva, Tableau  
+- **Focus:** Product-market fit, user experience, and operations  
+- **Outcome:** Prototype stage, early business model validation  
+- **Tools:** Excel, Canva, Tableau  
 
 ---
 
