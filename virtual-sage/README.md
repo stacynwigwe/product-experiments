@@ -5,11 +5,11 @@
 Freelance strategy & business support service.
 
 ## Overview
-A consulting venture that supported small businesses and thought leaders with systems, operations, and visibility.
+A consulting venture that supported small businesses, non-profits, and thought leaders with systems, operations, and visibility.
 
 ## What I Did
 - Designed automated workflows for scheduling, proposals, and reporting.  
-- Managed client social media and secured high-visibility opportunities (e.g., TED Talk interview).  
+- Managed client social media and secured high-visibility opportunities (e.g., conferences, podcasts, TED Talk interview).  
 - Built performance dashboards and vendor reports that improved business continuity.  
 
 ## What I Learned
