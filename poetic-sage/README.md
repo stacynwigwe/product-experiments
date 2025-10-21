@@ -7,6 +7,8 @@ Faith + poetry Instagram platform.
 ## Overview
 A creative side project to test how poetry and faith-based content could be packaged like a product. 
 
+- What began as a faith-led storytelling experiment, evolved into The Virtual Sage, a consultancy supporting faith-based educators in transforming their callings into entrepreneurial and nonprofit legacies.
+
 ## What I Did
 - Created, branded, and shared poetry content with a consistent aesthetic.  
 - Grew engagement to 450K+ impressions through organic reach.  
