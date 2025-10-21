@@ -61,7 +61,8 @@ A roadmap and concept for helping **teachers pivot into tech careers**, turning 
 ### [The Poetic Sage →](./poetic-sage)
 A creative experiment exploring **faith, healing, and storytelling** through social media.  
 - **Focus:** Emotional storytelling and content design  
-- **Outcome:** 1M+ organic reach, proof of concept for digital engagement  
+- **Outcome:** 1M+ organic reach, proof of concept for digital engagement
+- What began as a faith-led storytelling experiment, evolved into The Virtual Sage, a consultancy supporting faith-based educators in transforming their callings into entrepreneurial and nonprofit legacies.
 - **Tools:** Instagram Analytics, Canva, Notion  
 
 ---
