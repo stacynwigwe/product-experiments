@@ -1,7 +1,7 @@
 [Home](https://stacynwigwe.github.io/product-experiments/) | 
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 ---
-# Reviving the Educator Ecosystem: A Thought Leadership and Creator Engagement Framework
+# Educator Engagement & Impact Strategy Blueprint
 
 ## Overview  
 Educator-focused brands are filled with creativity, yet many overlook the deeper power of community.  
