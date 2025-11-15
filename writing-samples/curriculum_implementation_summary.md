@@ -1,4 +1,4 @@
-[Home](https://stacynwigwe.github.io/product-experiments/) | 
+[Product Experiments Main](https://stacynwigwe.github.io/product-experiments/) | 
 [🔙 Back to Portfolio](https://stacynwigwe.github.io/portfolio/)
 # Building Capacity for Curriculum Change: A Strategic Implementation Approach
 
